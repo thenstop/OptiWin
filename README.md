@@ -11,7 +11,7 @@ I'm not letting a scummy company win. Shame on you Hone.gg.
 
 - I used my own resources, such as the power plan, and also used a customized version of the NVIDIA control panel settings.
   - Hone does not own the legal right to the base profile that NVIDIA applies after driver installation.
-  - It easily could have been copied from somewhere else in the first place
+  - It easily could have been copied from somewhere else in the first place.
  
 - I removed and replaced all potential copyright assets.
 
